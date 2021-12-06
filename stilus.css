@@ -1,0 +1,25 @@
+body{
+    background-image: url("kepek/hatterkep.png");
+    background-color: rgba(0, 0, 0, 0.397);
+    background-repeat: round;
+    background-size: auto;
+    background-attachment: fixed;
+}
+p{
+    color: rgb(228, 176, 8);
+    text-decoration: none;
+    text-align: center;
+}
+p:hover{
+    color: rgb(255, 0, 0);
+    cursor: context-menu;
+}
+.szam{
+    color: rgba(255, 230, 0, 0.849);
+    font-variant: small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 75px;
+    cursor: context-menu;
+    color: beige;
+    cursor: not-allowed;
+}
